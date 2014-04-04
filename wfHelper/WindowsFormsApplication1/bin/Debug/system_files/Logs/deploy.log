@@ -1,0 +1,31 @@
+Buildfile: c:\jv\implementation\builder\deploy.xml
+
+init:
+
+WebForms3:
+
+init:
+
+deploy:
+     [copy] Copying 14 files to c:\tomcat\webapps\webec\implementation
+
+WebForms4:
+
+init:
+
+deploy:
+     [copy] Copying 14 files to c:\tomcat\webapps\wfds\xtencils
+
+WebFormsStatic:
+
+init:
+
+deployStatic:
+     [copy] Copying 2 files to c:\tomcat\webapps\wfds\xtencils
+
+WebForms:
+
+all:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds

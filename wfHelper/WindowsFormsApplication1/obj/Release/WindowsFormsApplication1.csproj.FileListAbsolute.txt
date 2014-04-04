@@ -1,0 +1,19 @@
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\WORK\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\WORK\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\WORK\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\WORK\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\WORK\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\WORK\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\WORK\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+D:\WORK\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\WORK\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\WORK\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\GenerateResource-ResGen.write.1.tlog

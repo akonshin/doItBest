@@ -1,0 +1,140 @@
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WFHelper.csproj.GenerateResource.Cache
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Alexander.Konshin\My Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Alexander.Konshin\My Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Alexander.Konshin\My Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Alexander.Konshin\My Documents\Dropbox\Code\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Alexander.Konshin\My Documents\Dropbox\Code\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Alexander.Konshin\My Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alexander.Konshin\My Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Alexander.Konshin\My Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Documents and Settings\Alexander.Konshin\My Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Documents and Settings\Alexander.Konshin\My Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Alexander.Konshin\My Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WFHelper.csproj.GenerateResource.Cache
+C:\Documents and Settings\Карасик\Мои документы\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Карасик\Мои документы\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Карасик\Мои документы\Dropbox\Code\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Карасик\Мои документы\Dropbox\Code\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Карасик\Мои документы\Dropbox\Code\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Карасик\Мои документы\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Карасик\Мои документы\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Documents and Settings\Карасик\Мои документы\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Documents and Settings\Карасик\Мои документы\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Documents and Settings\Карасик\Мои документы\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Карасик\Мои документы\Dropbox\Code\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Карасик\Мои документы\Dropbox\Code\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Alexander.Konshin\My Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents\Dropbox\Code\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents\Dropbox\Code\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents\Dropbox\Code\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Карасик\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\wfHelper.MainForm.resources
+C:\Users\Карасик\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\wfHelper.Resources.Resources.resources
+C:\Users\Карасик\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\wfHelper.Settings.resources
+C:\Users\Карасик\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\wfHelper.HubEditList.resources
+C:\Users\Карасик\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\wfHelper.TestFileImport.resources
+C:\Users\Карасик\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\wfHelper.Properties.Resources.resources
+C:\Users\Карасик\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.csproj.GenerateResource.Cache
+C:\Users\Карасик\Dropbox\Projects\Code\WindowsFormsApplication1\bin\Debug\WFHelper.exe
+C:\Users\Карасик\Dropbox\Projects\Code\WindowsFormsApplication1\bin\Debug\WFHelper.pdb
+C:\Users\Карасик\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.exe
+C:\Users\Карасик\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.pdb
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.exe
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.pdb
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\bin\Debug\WFHelper.exe
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\bin\Debug\WFHelper.pdb
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.csprojResolveAssemblyReference.cache
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.MainForm.resources
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.Resources.Resources.resources
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.Settings.resources
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.HubEditList.resources
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.TestFileImport.resources
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.Properties.Resources.resources
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.csproj.GenerateResource.Cache
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\bin\Debug\WFHelper.exe.manifest
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\bin\Debug\WFHelper.application
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.exe.manifest
+C:\Users\Karasik\Dropbox\Projects\Code\WindowsFormsApplication1\obj\Debug\WFHelper.application
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.exe.config
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.exe
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.pdb
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.exe.manifest
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.application
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.exe
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.pdb
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.MainForm.resources
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.Resources.Resources.resources
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.Settings.resources
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.HubEditList.resources
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.TestFileImport.resources
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.Properties.Resources.resources
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.csproj.GenerateResource.Cache
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.exe.manifest
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.application
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.exe.config
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.exe
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.pdb
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.MainForm.resources
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.Resources.Resources.resources
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.Settings.resources
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.HubEditList.resources
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.TestFileImport.resources
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.Properties.Resources.resources
+C:\Users\Karasik\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.csprojResolveAssemblyReference.cache
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.exe.manifest
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.application
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.exe
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.pdb
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.exe.manifest
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.application
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.exe.config
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.exe
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.pdb
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.exe.manifest
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.application
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.exe
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.pdb
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.csprojResolveAssemblyReference.cache
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.MainForm.resources
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.Resources.Resources.resources
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.Settings.resources
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.HubEditList.resources
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.TestFileImport.resources
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.Properties.Resources.resources
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.csproj.GenerateResource.Cache
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.exe.manifest
+C:\Users\Карасик\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.application
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\ResGen.read.1.tlog
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\obj\Debug\ResGen.write.1.tlog
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.exe.config
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.exe
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.pdb
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.MainForm.resources
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.Resources.Resources.resources
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.Settings.resources
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.HubEditList.resources
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.TestFileImport.resources
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.Properties.Resources.resources
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.csproj.GenerateResource.Cache
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.exe.manifest
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.application
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.exe
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\bin\Debug\WFHelper.pdb
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.exe.manifest
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.application
+D:\prog\p_WF_Helper\p_WF_Helper\WindowsFormsApplication1\obj\Debug\WFHelper.csprojResolveAssemblyReference.cache

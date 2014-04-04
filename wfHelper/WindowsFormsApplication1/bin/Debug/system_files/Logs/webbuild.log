@@ -1,0 +1,34 @@
+Buildfile: C:\jv\JLabel2\builder\docViews.xml
+
+init:
+
+viewJar1:
+    [mkdir] Created dir: C:\jv\JLabel2\builder\target\client\docViews\forzaniGroup
+
+init-dependencies:
+     [echo] Loading dependency paths from file: C:\jv\JLabel2\builder\target\build-dependencies.xml
+
+compile:
+     [echo] Compiling classes for docViews/forzaniGroup/shippingLabelApplet.jar
+     [copy] Copying 1 file to C:\jv\JLabel2\builder\target\client\tmpjavadocViews\forzaniGroup
+     [copy] Copying 1 file to C:\jv\JLabel2\builder\target\client
+  [replace] Replaced 1 occurrences in 1 files.
+  [replace] Replaced 0 occurrences in 0 files.
+    [javac] C:\jv\JLabel2\builder\jar.xml:27: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 4 source files to C:\jv\JLabel2\builder\target\client
+    [javac] Note: Some input files use unchecked or unsafe operations.
+    [javac] Note: Recompile with -Xlint:unchecked for details.
+
+resources:
+     [copy] Copying 1 file to C:\jv\JLabel2\builder\target\client\tmprscdocViews\forzaniGroup
+
+jar:
+     [echo] Manifest for docViews/forzaniGroup/shippingLabelApplet: ${manifest}
+
+jarNoManifest:
+     [echo] jarNoManifest
+      [jar] Building jar: C:\jv\JLabel2\builder\target\client\docViews\forzaniGroup\shippingLabelApplet.jar
+      [jar] Updating jar: C:\jv\JLabel2\builder\target\client\docViews\forzaniGroup\shippingLabelApplet.jar
+
+BUILD SUCCESSFUL
+Total time: 8 seconds

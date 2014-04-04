@@ -1,0 +1,28 @@
+
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug>if "" == "" set IMPLEMENTATION_HOME=c:\jv\implementation 
+
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug>set JAVA_HOME=c:\Progra~1\Java\jdk1.6.0_33 
+
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug>set ANT_OPTS=-Xms32m -Xmx512m -Xloggc:gc.log -Dsps.editdoc.jdocgen.TypeHelper=sps.busdoc.type.BusTypeHelper -Djava.util.logging.config.file=c:\jv\implementation\builder\logging.properties 
+
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug>rem To profile add this to the ANT_OPTS: -agentlib:hprof=cpu=times,depth=25,thread=y,file=hprof.txt 
+
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug>set classpath= 
+
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug>rem need to set so that mail logger works. 
+
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug>if "" == "" set ANT_LOGGER=org.apache.tools.ant.NoBannerLogger 
+
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug>if exist implementation*.log* del/q implementation*.log* 
+
+C:\Users\alexander.konshin\Dropbox\Projects\p_WF_Helper\WindowsFormsApplication1\bin\Debug>call ant.bat -logger org.apache.tools.ant.NoBannerLogger -buildfile c:\jv\implementation\builder\build.xml clean 
+Buildfile: c:\jv\implementation\builder\build.xml
+
+init:
+     [echo] Implementation ant build script using 1.6.0_33 to process c:\jv\implementation\builder
+
+init:
+    [mkdir] Created dir: c:\jv\implementation\builder\FileMaps
+
+BUILD SUCCESSFUL
+Total time: 0 seconds

@@ -1,0 +1,4 @@
+Apr 3, 2014 4:20:08 PM sps.util.jdk.JDKUtil configuredJdkMissing
+INFO: found configured JDK tools.jar c:\Progra~1\Java\jdk1.6.0_33\lib\tools.jar
+Apr 3, 2014 4:20:08 PM sps.ant.BuildXtencilTask findImages
+INFO: Unable to locate resource directory c:\jv\implementation\builder\WebForms\fordVehiclePersonalization. No resources will be included.
